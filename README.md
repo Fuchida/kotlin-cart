@@ -26,7 +26,7 @@
 	10 Enhance cart POST endpoint that given a cart ID and meal ID will add the meal to the cart
 	11 Add a GET cart endpoint that will return available carts with items
 	12 Add a DELETE cart endpoint that given a cart id will delete the cart and all its data
-		12.1 if given a cart and meal id will remove the item from the cart
+	    12.1 if given a cart and meal id will remove the item from the cart
 
 ### Bonus
 	13. Create Retrofit client for api-cart
