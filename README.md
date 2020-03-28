@@ -11,7 +11,7 @@
 
            3.1 Write tests for GET the endpoint ✅
 
-	4 Create a POST endpoint to deliver meal data into the database  ✅
+	4 Create a POST endpoint to deliver meal data into the database ✅
 	    3.1 Write tests for POST endpoint
 
 	5 Update GET endpoint to pull any available meal data in the DB
