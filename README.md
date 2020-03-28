@@ -4,15 +4,15 @@
 	2 Create an GET endpoint and return {"content":"Hello Word"} ✅
 	3 Update endpoint to return your meal class as a json object ✅
 
-           { "location_id":1, "store_id": 2482,
+          { "location_id":1, "store_id": 2482,
              "items":"DoubleCheeseBurger|Coke", "total":5000,
              "meal_uid":"16873831-b8b7-48b7-89b7-99ed39db6304"
-	   }
+	  }
 
-           3.1 Write tests for GET the endpoint ✅
+          3.1 Write tests for GET the endpoint ✅
 
 	4 Create a POST endpoint to deliver meal data into the database ✅
-	    3.1 Write tests for POST endpoint
+	  3.1 Write tests for POST endpoint
 
 	5 Update GET endpoint to pull any available meal data in the DB
 	6 Write a migration to add indexes on the cart table
